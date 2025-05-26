@@ -1,0 +1,9 @@
+{
+    "name": "@pacuare/design",
+    "version": "0.1.0",
+    "license": "MIT",
+    "imports": {
+        "tailwind-merge": "npm:tailwind-merge@^3.3.0"
+    },
+    "exports": "./mod.ts"
+}

@@ -1,0 +1,16 @@
+{
+  "version": "5",
+  "specifiers": {
+    "npm:tailwind-merge@^3.3.0": "3.3.0"
+  },
+  "npm": {
+    "tailwind-merge@3.3.0": {
+      "integrity": "sha512-fyW/pEfcQSiigd5SNn0nApUOxx0zB/dm6UDU/rEwc2c3sX2smWUNbapHv+QRqLGVp9GWX3THIa7MUGPo+YkDzQ=="
+    }
+  },
+  "workspace": {
+    "dependencies": [
+      "npm:tailwind-merge@^3.3.0"
+    ]
+  }
+}
