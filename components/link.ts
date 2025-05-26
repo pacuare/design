@@ -1,3 +1,3 @@
-import { c } from "./base.ts";
+import { c, type Component } from "./base.ts";
 
-export const link = c('underline cursor-pointer')
+export const link: Component = c("underline cursor-pointer");

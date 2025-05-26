@@ -1,3 +1,3 @@
-import { c } from "./base.ts";
+import { c, type Component } from "./base.ts";
 
-export const spinner = c('animate-spin')
+export const spinner: Component = c("animate-spin");
